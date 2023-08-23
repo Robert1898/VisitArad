@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.visitarad">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:enableOnBackInvokedCallback="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.VisitArad">
+        <activity
+            android:name=".magazine.Magazin"
+            android:exported="false" />
+        <activity
+            android:name=".evenimente.Eveniment"
+            android:exported="false" />
+        <activity
+            android:name=".sanatate.Spitale"
+            android:exported="false" />
+        <activity
+            android:name=".hoteluri.Hotel"
+            android:exported="false" />
+        <activity
+            android:name=".obiective.Obiectiv"
+            android:exported="false" />
+        <activity
+            android:name=".restaurante.Restaurant"
+            android:exported="false" />
+        <activity
+            android:name=".magazine.AtriumMall"
+            android:exported="false" />
+        <activity
+            android:name=".evenimente.GhegheStandUp"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".magazine.CentreComerciale" />
+        <activity android:name=".evenimente.Evenimente" />
+        <activity android:name=".sanatate.Sanatate" />
+        <activity android:name=".hoteluri.Hoteluri" />
+        <activity android:name=".obiective.ObiectiveTuristice" />
+        <activity android:name=".restaurante.Restaurante" />
+        <activity android:name=".CreareCont" />
+        <activity android:name=".PaginaPrincipala" />
+        <activity
+            android:name=".MainActivityLogin"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyA4Gpybpfe9wj8828JK7t32PcYtnaDgS_4" />
+    </application>
+
+</manifest>

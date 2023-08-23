@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">Visit Arad</string>
+    <string name="intrati">Intrati</string>
+    <string name="alege_tipul_utilizatorului">Alege tipul utilizatorului:</string>
+    <string name="bun_venit_in_aplicatie">Bun venit in aplicatie!</string>
+    <string name="lcalnic">Localnic</string>
+    <string name="turist">Turist</string>
+    <string name="nume">Nume:</string>
+    <string name="parola">Parola</string>
+    <string name="bine_ati_venit_in_aplicatie">Bine ati venit in aplicatie!</string>
+    <string name="sali_fitness">Sali fitness</string>
+    <string name="localuri">Localuri</string>
+    <string name="spitale">Spitale</string>
+    <string name="obiective_turistice">Obiective turistice</string>
+    <string name="evenimente">Evenimente</string>
+    <string name="restaurante">Restaurante</string>
+    <string name="evenimente_locale">EVENIMENTE LOCALE</string>
+    <string name="restaurante_locale">RESTAURANTE LOCALE</string>
+    <string name="localuri_arad">LOCALURI ARAD</string>
+    <string name="hoteluri">Hoteluri</string>
+    <string name="corul_academic">CORUL ACADEMIC</string>
+    <string name="spectacole_de_teatru">SPECTACOLE DE TEATRU</string>
+    <string name="statiunea_moneasa_judetul_arad">STATIUNEA MONEASA,JUDETUL ARAD</string>
+    <string name="gara_arad">GARA ARAD</string>
+    <string name="restaurant_ratio">RESTAURANT RATIO</string>
+    <string name="euphoria_biergarten">EUPHORIA BIERGARTEN</string>
+    <string name="hotel_continental_arad">HOTEL CONTINENTAL ARAD</string>
+    <string name="hotel_coandi_arad">HOTEL COANDI ARAD</string>
+    <string name="colinde_de_craciun">COLINDE DE CRACIUN</string>
+    <string name="retro_party">RETRO PARTY</string>
+    <string name="ratio_beach">RATIO BEACH</string>
+    <string name="restaurant_subcetate">RESTAURANT SUBCETATE</string>
+    <string name="sala_xox">SALA XOX</string>
+    <string name="sala_gym_one">SALA GYM ONE</string>
+    <string name="kf_cafe">KF CAFE</string>
+    <string name="art_cafe">ART CAFE</string>
+    <string name="spitalul_tbc">SPITALUL TBC</string>
+    <string name="spitalul_medlife">SPITALUL MEDLIFE</string>
+    <string name="todo">TODO</string>
+    <string name="alege">Alege</string>
+    <string name="colinde_la_targul_de_craciun">Colinde la Targul de Craciun</string>
+    <string name="n_fiecare_sear_n_parcul_mihai_eminescu_din_arad_pe_l_ng_muzic_pute_i_s_v_opri_i_la_c_su_ele_unde_comercian_ii_continu_s_preg_teasc_preparate_delicioase_ciolan_cu_varz_s_rm_lu_e_pomana_porcului_cozonac_secuiesc_cl_tite_lango_i_gogo_i_grece_ti_gr_tare_mezeluri_de_porc_i_nu_numai">În fiecare seară, în Parcul Mihai Eminescu din Arad, pe lângă muzică, puteți să vă opriți la căsuțele unde comercianții continuă să pregătească preparate delicioase: ciolan cu varză, sărmăluțe, pomana porcului, cozonac secuiesc, clătite, langoși, gogoși grecești, grătare, mezeluri de porc și nu numai.</string>
+    <string name="club_flex_va_g_zdui_un_nou_retro_party_s_mb_t_22_februarie_ncep_nd_cu_ora_22_00_intrarea_se_va_face_pe_baza_achizi_ion_rii_tokenurilor_pentru_b_uturi_n_valoare_de_30_lei_nu_se_accept_tokenuri_de_la_party_uri_precedente">Club Flex va găzdui un nou Retro Party sâmbătă, 22 februarie, începând cu ora 22.00.Intrarea se va face pe baza achiziţionării tokenurilor pentru băuturi, în valoare de 30 lei. Nu se acceptă tokenuri de la party-uri precedente.</string>
+    <string name="rezerv_ri_0721257360">Rezervări: 0721257360</string>
+    <string name="pret_30_lei">Pret:30 lei</string>
+    <string name="retro_party_arad">Retro Party Arad</string>
+    <string name="despre_ratio_beach">Despre Ratio Beach</string>
+    <string name="_4_1">4.1</string>
+    <string name="adresa_str_malul_muresului">Adresa: Str. Malul Muresului</string>
+    <string name="telefon_0257_282_328">Telefon: 0257 282 328</string>
+    <string name="arhitectura_mobilierul_rustic_decoratiunile_si_stergarele_panorama_oferita_de_terasa_semineul_caldura_emanata_de_acesta_si_nu_numai_amabilitatea_personalului_toate_te_fac_sa_te_simti_bine_sa_te_simti_asa_cm_te_simit_acasa_servirea_ireprosabila_si_produsele_proaspete_de_calitate_sunt_ingredientele_cu_care_va_intampinam">Arhitectura, mobilierul rustic, decoratiunile si stergarele, panorama oferita de terasa, semineul,caldura emanata de acesta si nu numai, amabilitatea personalului, toate te fac sa te simti bine, sa te simti asa cm te simit ACASA. Servirea ireprosabila si produsele proaspete, de calitate, sunt ingredientele cu care va intampinam.</string>
+    <string name="despre_xox_arad">Despre XoX Arad</string>
+    <string name="_4_6">4.6</string>
+    <string name="adresa_37_calea_romanilor_35_arad">Adresa: 37, Calea Romanilor 35, Arad</string>
+    <string name="xox_gym_este_o_sal_de_fitness_din_arad_unde_te_po_i_antrena_cu_echipamente_moderne_ntr_o_atmosfer_pl_cut_fie_c_vrei_s_lucrezi_pe_cont_propriu_sau_cu_ajutorul_unui_antrenor_personal_xox_gym_i_pune_la_dispozi_ie_abonamente_variate_n_func_ie_de_preferin_ele_tale">XOX Gym este o sală de fitness din Arad unde te poți antrena cu echipamente moderne, într-o atmosferă plăcută. Fie că vrei să lucrezi pe cont propriu sau cu ajutorul unui antrenor personal, XOX Gym îți pune la dispoziție abonamente variate, în funcție de preferințele tale.</string>
+    <string name="telefon_0257_285_048">Telefon: 0257 285 048</string>
+    <string name="despre_gymone_arad">Despre GymOne Arad</string>
+    <string name="_4_3">4.3</string>
+    <string name="adresa_calea_6_v_n_tori_5_7_arad">Adresa: Calea 6 Vânători 5,7, Arad</string>
+    <string name="telefon_0732_628_911">Telefon: 0732 628 911</string>
+    <string name="gym_one_arad_este_pozi_ionat_n_atrium_mall_arad_i_este_sala_de_fitness_unde_vei_g_si_motiva_ia_de_care_ai_nevoie_gym_one_arad_ofer_o_gam_larg_de_servicii_precum_aerobic_fitness_saun_i_zon_de_relaxare_situat_n_atrium_mall_arad">Gym One Arad este poziţionat în Atrium Mall Arad şi este sala de fitness unde vei găsi motivaţia de care ai nevoie. Gym One Arad oferă o gamă largă de servicii, precum: aerobic, fitness, saună şi zonă de relaxare. Situat în Atrium Mall Arad.</string>
+
+    <string name="despre_kf_arad">Despre KF Arad</string>
+    <string name="adresa_pia_a_avram_iancu_11_arad">Adresa: Piața Avram Iancu 11, Arad</string>
+    <string name="telefon_0730_035_824">Telefon: 0730 035 824</string>
+    <string name="bun_venit_tuturor_la_aceasta_cafena_unica_denumita_kf_cafe_cafenea_unica_acest_loc_magic_este_unul_deosbit_in_randul_cafenelelor_din_judetul_arad_cu_un_aer_mai_noncomformist_acest_local_a_abordat_un_stil_aparte">Bun venit tuturor la aceasta cafena unica denumita KF Cafe – cafenea unica Acest loc magic este unul deosbit in randul cafenelelor din judetul Arad Cu un aer mai noncomformist acest local a abordat un stil aparte.</string>
+
+    <string name="despre_art_cafe">Despre Art Cafe</string>
+    <string name="_4_5">4.5</string>
+    <string name="adresa_pia_a_avram_iancu_10_arad">Adresa: Piața Avram Iancu 10, Arad</string>
+    <string name="telefon_0728_943_399">Telefon: 0728 943 399</string>
+    <string name="acel_loc_care_iti_aminteste_de_o_cafenea_veche_parizian_incepand_de_la_colectia_de_arta_decorul_bogat_pana_la_vederea_din_strada_cu_teatrul_impunator_si_piata_avram_iancu">Acel loc care iti aminteste de o cafenea veche pariziană incepand de la colectia de arta, decorul bogat pana la vederea din strada cu teatrul impunator si piata Avram Iancu.</string>
+
+    <string name="_3_2">3.2</string>
+    <string name="despre_spitalul_tbc">Despre Spitalul TBC</string>
+    <string name="adresa_strada_mihai_eminescu_46_arad">Adresa: Strada Mihai Eminescu 46, Arad</string>
+    <string name="telefon_0257_280_145">Telefon: 0257 280 145</string>
+    <string name="este_singurul_spital_construit_i_echipat_integral_de_un_consiliu_jude_ean_i_este_dovada_faptului_c_pentru_administra_ia_local_s_n_tatea_public_este_pe_primul_loc_spitalul_a_fost_construit_la_standardele_medicale_cerute_de_legisla_ia_n_vigoare_i_a_fost_dotat_cu_aparatur_medical_nou_i_performant">Este singurul spital construit și echipat integral de un Consiliu Județean și este dovada faptului că pentru administrația locală sănătatea publică este pe primul loc. Spitalul a fost construit la standardele medicale cerute de legislația în vigoare și a fost dotat cu aparatură medicală nouă și performantă.</string>
+
+    <string name="despre_medlife">Despre MedLife</string>
+    <string name="_3_5">3.5</string>
+    <string name="adresa_str_dr_cornel_radu_nr_3_arad_310329">Adresa: Str. Dr. Cornel Radu Nr.3, Arad 310329</string>
+    <string name="telefon_0257_960">Telefon: 0257 960</string>
+    <string name="n_to_i_ace_ti_ani_am_sprijinit_oamenii_i_sistemul_medical_am_investit_n_tehnologie_i_am_avut_un_singur_scop_s_avem_grij_de_s_n_tatea_ta_i_a_celor_dragi_nici_in_pandemie_nu_ne_am_oprit_i_am_oferit_acces_la_servicii_medicale_de_calitate_n_siguran_i_am_pornit_programe_de_cercetarea_medical_pentru_a_ti_cum_s_ac_ion_m_mai_departe">În toți acești ani am sprijinit oamenii și sistemul medical, am investit în tehnologie și am avut un singur scop: să avem grijă de sănătatea ta și a celor dragi. Nici in pandemie nu ne-am oprit: ți-am oferit acces la servicii medicale de calitate, în siguranță, și am pornit programe de cercetarea medicală pentru a ști cum să acționăm mai departe.</string>
+    <string name="ce_spectacole_vedem">Ce spectacole vedem?</string>
+    <string name="_13_februarie_cu_noroc_pentru_to_i_cei_care_aleg_s_i_petreac_seara_la_teatru_sala_studio_a_teatrului_clasic_ad_poste_te_de_la_ora_19_00_un_spectacol_construit_pe_un_text_reper_n_dramaturgia_rom_neasc_n_pasta_de_i_l_caragiale">13 februarie – cu noroc pentru toți cei care aleg să își petreacă seara la teatru. Sala Studio a Teatrului Clasic adăpostește, de la ora 19.00, un spectacol construit pe un text – reper în dramaturgia românească: „Năpasta” de I.L. Caragiale.</string>
+    <string name="n_14_februarie_s_rb_torim_cel_mai_nobil_sentiment_uman_timpul_iubirii_se_intituleaz_spectacolul_g_zduit_de_la_ora_19_00_de_sala_mare_este_vorba_despre_un_recital_din_lirica_de_dragoste_a_lumii_sus_inut_de_actorii_oltea_blaga_dorina_darie_peter_oana_kun">În 14 februarie sărbătorim cel mai nobil sentiment uman. „Timpul iubirii” se intitulează spectacolul găzduit, de la ora 19.00, de sala mare. Este vorba despre un recital din lirica de dragoste a lumii , susținut de actorii Oltea Blaga, Dorina Darie Peter, Oana Kun,..</string>
+    <string name="_4_8">4.8</string>
+    <string name="adresa_pia_a_george_enescu_1_arad">Adresa: Piața George Enescu 1, Arad</string>
+
+    <string name="despre_statiunea_moneasa_arad">Despre Statiunea Moneasa,Arad</string>
+    <string name="statiunea_este_situata_intr_o_mica_depresiune_de_pe_valea_moneasa_la_poalele_muntilor_codru_moma_la_altitudinea_medie_de_280_m">Statiunea este situata intr-o mica depresiune de pe valea Moneasa, la poalele muntilor Codru-Moma, la altitudinea medie de 280 m.</string>
+    <string name="se_pot_vizita_urmatoarele_obiective_turistice_pestera_liliecilor_cariera_de_marmura_izvorul_piatra_cu_lapte_grota_ursilor_cuptorul_de_fier_rezervatia_de_nuferi_varful_izoi_stanca_laptelui_tinoasa_platoul_carstnic_cetatea_deznei">Se pot vizita urmatoarele obiective turistice: Pestera Liliecilor, Cariera de Marmura, Izvorul Piatra cu Lapte, Grota Ursilor, Cuptorul de Fier, Rezervatia de nuferi, Varful Izoi, Stanca Laptelui, Tinoasa, Platoul Carstnic, Cetatea Deznei.</string>
+
+    <string name="gara_arad_sau_gara_mare_este_cea_mai_mare_gar_din_municipiul_i_jude_ul_arad_dar_i_una_dintre_cele_mai_tranzitate_din_regiunea_de_vest_a_rom_niei_din_gara_arad_pleac_i_sosesc_zilnic_peste_100_trenuri_de_c_l_tori_c_tre_majoritatea_localit_ilor_din_rom_nia">Gara Arad (sau Gara Mare) este cea mai mare gară din municipiul și județul Arad, dar și una dintre cele mai tranzitate din Regiunea de Vest a României. Din gara Arad pleacă și sosesc zilnic peste 100 trenuri de călători către majoritatea localităților din România.</string>
+    <string name="despre_gara_arad">Despre Gara Arad</string>
+
+    <string name="adresa_pia_a_g_rii_8_9_arad">Adresa: Piața Gării 8-9, Arad</string>
+    <string name="platforme_3_rampe">Platforme: 3 rampe</string>
+
+    <string name="cu_o_experienta_de_aproape_20_de_ani_in_acest_domeniu_societatea_dispune_de_utilitati_deosebite_brutarie_proprie_patiserie_si_cofetarie_proprie_un_modern_si_elegant_fast_food_precum_si_3_bucatarii_ultramoderne_echipate_cu_aparate_la_standarde_europene_pe_langa_acestea_cele_4_baruri_existente_in_cadrul_locatiei_ratio_beach_vin_in_intampinarea_solicitarilor_d_voastra">Cu o experienta de aproape 20 de ani in acest domeniu, societatea dispune de utilitati deosebite: brutarie proprie, patiserie si cofetarie proprie, un modern si elegant fast-food, precum si 3 bucatarii ultramoderne echipate cu aparate la standarde europene. Pe langa acestea, cele 4 baruri existente in cadrul locatiei RATIO BEACH vin in intampinarea solicitarilor d-voastra.</string>
+
+    <string name="adresa_str_malul_muresului_arad">Adresa: Str. Malul Muresului, Arad</string>
+
+    <string name="despre_euphoria">Despre Euphoria</string>
+
+    <string name="menu_euphoriabiergartenarad_ro">Menu: euphoriabiergartenarad.ro</string>
+    <string name="phone_0745_393_333">Phone: 0745 393 333</string>
+    <string name="euphoria_biergarten_arad_este_continuarea_pove_tii_euphoria_biergarten_din_cluj_localul_a_fost_deschis_n_luna_noiembrie_a_anului_2014_iar_de_atunci_a_fost_i_continu_s_se_afle_n_topul_preferin_elor_voastre_m_ncarea_atmosfera_i_decorul_sunt_cele_specifice_brandului_euphoriare_halbele_de_bere_pictate_i_ag_ate_pe_pere_i_i_fur_privirea_nc_de_la_intrare">Euphoria Biergarten Arad este continuarea poveștii Euphoria Biergarten din Cluj! Localul a fost deschis în luna noiembrie a anului 2014, iar de atunci a fost și continuă să se afle în topul preferințelor voastre. Mâncarea, atmosfera și decorul sunt cele specifice brandului Euphoriare, halbele de bere pictate și agățate pe pereți, îți fură privirea încă de la intrare.</string>
+
+    <string name="despre_hotel_continental">Despre Hotel Continental</string>
+
+    <string name="adresa_revolutiei_boulevard_79_81_arad_310130">Adresa: Revolutiei Boulevard 79-81, Arad 310130</string>
+    <string name="telefon_0372_578_800">Telefon: 0372 578 800</string>
+    <string name="serviciile_de_ospitalitate_i_cazare_oferite_de_hotel_arad_continental_forum_fac_din_acest_hotel_de_4_stele_din_centrul_aradului_loca_ia_perfect_pentru_oricare_vizitator_al_ora_ului_nostru">Serviciile de ospitalitate și cazare oferite de Hotel Arad Continental Forum fac din acest hotel de 4 stele din centrul Aradului locația perfectă pentru oricare vizitator al orașului nostru.</string>
+
+    <string name="renumele_restaurantului_hotelului_coandi_din_arad_s_a_cladit_doar_pe_aprecierea_clientilor_nostri_prin_zvonuri_care_au_circulat_de_la_om_la_om">Renumele restaurantului hotelului Coandi din Arad s-a cladit doar pe aprecierea clientilor nostri, prin zvonuri care au circulat de la om la om.</string>
+    <string name="adresa_calea_romanilor_47_arad_310114">Adresa: Calea Romanilor 47, Arad 310114</string>
+    <string name="despre_hotel_coandi">Despre Hotel Coandi</string>
+    <string name="telefon_0257_287_777">Telefon: 0257 287 777</string>
+
+    <string name="inregistrare">Inregistreaza-te aici</string>
+    <string name="guest">Continuă fară cont</string>
+    <string name="deconectare">Deconectare</string>
+    <string name="obiectiveTuristice">Obiective Turistice</string>
+    <string name="sanatate">Sanatate</string>
+    <string name="centre_comerciale">Centre comerciale</string>
+    <string name="insta">INSTAGRAM</string>
+    <string name="facebook">FACEBOOK</string>
+    <string name="web">WEBSITE</string>
+    <string name="contact">CONTACT</string>
+    <string name="mail">EMAIL</string>
+    <string name="meniu">MENIU</string>
+    <string name="rezervare">REZERVARE</string>
+    <string name="programare">PROGRAMARE</string>
+    <string name="zileleAR">Zilele Aradului, ediția 2023. PROGRAMUL COMPLET</string>
+    <string name="sambata19">Sâmbătă, 19 august 2023</string>
+    <string name="duminica20">Duminică, 20 august 2023</string>
+    <string name="luni21">Luni, 21 august 2023</string>
+    <string name="marti22">Marți, 22 august 2023</string>
+    <string name="miercuri23">Miercuri, 23 august 2023</string>
+    <string name="joi24">Joi, 24 august 2023</string>
+    <string name="vineri25">Vineri, 25 august 2023</string>
+    <string name="sambata26">Sâmbătă, 26 august 2023</string>
+    <string name="duminica27">Duminică, 27 august 2023</string>
+    <string name="bilete">BILETE AICI</string>
+
+
+    <string-array name="tiputilizator">
+        <item>Localnic</item>
+        <item>Turist</item>
+    </string-array>
+</resources>

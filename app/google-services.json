@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "302177517826",
+    "project_id": "visitaradapp",
+    "storage_bucket": "visitaradapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302177517826:android:9900d2078a1fb88ff8c21b",
+        "android_client_info": {
+          "package_name": "com.example.visitarad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302177517826-5h1cp2oqkt368bjbodr4geg7ibeib4tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.visitarad",
+            "certificate_hash": "c84e68d769c62e73624b414abbcfbb9ca4ca7a9c"
+          }
+        },
+        {
+          "client_id": "302177517826-2rrn1c68avejuu0eu885cijpn4ockb85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDm2P9lQ8FFxkOl7dya_D34OXFt0dzzzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302177517826-2rrn1c68avejuu0eu885cijpn4ockb85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

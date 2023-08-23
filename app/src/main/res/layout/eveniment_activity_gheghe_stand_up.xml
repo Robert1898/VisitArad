@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/scrollViewGherghe"
+    android:layout_height="wrap_content"
+    >
+   <androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".evenimente.GhegheStandUp">
+
+       <ImageView
+           android:layout_width="match_parent"
+           android:layout_height="350dp"
+           app:layout_constraintStart_toStartOf="parent"
+           android:id="@+id/imgGherghe"
+           app:layout_constraintTop_toTopOf="parent"
+           android:src="@drawable/gherghe"/>
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           app:layout_constraintStart_toStartOf="parent"
+           android:id="@+id/txtGherghe"
+           android:layout_marginTop="10dp"
+           android:textSize="18sp"
+           android:layout_marginStart="4dp"
+           android:layout_marginEnd="4dp"
+           app:layout_constraintTop_toBottomOf="@id/imgGherghe"/>
+
+       <Button
+           android:id="@+id/btnGherghe"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_marginTop="30dp"
+           app:layout_constraintEnd_toEndOf="parent"
+           app:layout_constraintStart_toStartOf="parent"
+           android:backgroundTint="#3b5998"
+           android:textSize="18sp"
+           app:layout_constraintTop_toBottomOf="@+id/txtGherghe"
+           android:text="@string/bilete"/>
+
+       <fragment
+           android:id="@+id/mapGherghe"
+           android:name="com.google.android.gms.maps.SupportMapFragment"
+           android:layout_width="match_parent"
+           android:layout_height="300dp"
+           android:layout_marginTop="8dp"
+           android:layout_marginEnd="1dp"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintTop_toBottomOf="@+id/btnGherghe" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
