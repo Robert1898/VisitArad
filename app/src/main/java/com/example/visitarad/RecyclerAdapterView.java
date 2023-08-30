@@ -13,54 +13,54 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
 
-public class RecyclerAdapterView extends RecyclerView.Adapter<RecyclerAdapterView.RestauranteViewHolder>{
+public class RecyclerAdapterView extends RecyclerView.Adapter<RecyclerAdapterView.CategoriViewHolder>{
 
-    private ArrayList<String> denumireRestaurant;
-    private ArrayList<Integer> imagineRestaurant;
+    private ArrayList<String> denumire;
+    private ArrayList<Integer> imagine;
 
     private Context context;
     OnClickInterface onClickInterface;
 
-    public RecyclerAdapterView(ArrayList<String> denumireRestaurant, ArrayList<Integer> imagineRestaurant, Context context, OnClickInterface onClickInterface) {
-        this.denumireRestaurant = denumireRestaurant;
-        this.imagineRestaurant = imagineRestaurant;
+    public RecyclerAdapterView(ArrayList<String> denumire, ArrayList<Integer> imagine, Context context, OnClickInterface onClickInterface) {
+        this.denumire = denumire;
+        this.imagine = imagine;
         this.context = context;
         this.onClickInterface = onClickInterface;
     }
 
     @NonNull
     @Override
-    public RestauranteViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
+    public CategoriViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.item_view_restaurante,parent,false);
-        return new RestauranteViewHolder(view);
+        return new CategoriViewHolder(view);
     }
 
     @Override
-    public void onBindViewHolder(@NonNull RestauranteViewHolder holder, int position) {
+    public void onBindViewHolder(@NonNull CategoriViewHolder holder, int position) {
 
-        holder.textRestaurant.setText(denumireRestaurant.get(position));
-        holder.imageRestaurant.setImageResource(imagineRestaurant.get(position));
+        holder.text.setText(denumire.get(position));
+        holder.image.setImageResource(imagine.get(position));
     }
 
     @Override
     public int getItemCount() {
-        return imagineRestaurant.size();
+        return imagine.size();
     }
 
 
-    public class RestauranteViewHolder extends RecyclerView.ViewHolder {
+    public class CategoriViewHolder extends RecyclerView.ViewHolder {
 
-        private ImageView imageRestaurant;
-        private TextView textRestaurant;
-        private CardView cardViewRest;
+        private ImageView image;
+        private TextView text;
+        private CardView cardView;
 
-        public RestauranteViewHolder(@NonNull View itemView) {
+        public CategoriViewHolder(@NonNull View itemView) {
             super(itemView);
-            textRestaurant = itemView.findViewById(R.id.textViewRestaurante);
-            imageRestaurant = itemView.findViewById(R.id.imageViewRestaurante);
-            cardViewRest = itemView.findViewById(R.id.cardViewRestaurante);
+            text = itemView.findViewById(R.id.textViewRestaurante);
+            image = itemView.findViewById(R.id.imageViewRestaurante);
+            cardView = itemView.findViewById(R.id.cardViewRestaurante);
 
-            cardViewRest.setOnClickListener(new View.OnClickListener() {
+            cardView.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
                     int pos  = getAdapterPosition();
