@@ -21,12 +21,18 @@ import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.firestore.DocumentReference;
 import com.google.firebase.firestore.DocumentSnapshot;
 import com.google.firebase.firestore.FirebaseFirestore;
+import androidx.test.espresso.IdlingResource;
+import androidx.test.espresso.idling.CountingIdlingResource;
 import java.util.ArrayList;
 
 public class Restaurant extends AppCompatActivity implements OnMapReadyCallback {
 
     private CommonMethods commonMethods = new CommonMethods();
     private ModelRestaurant restaurant;
+
+    public CountingIdlingResource countingIdlingResource =
+            new CountingIdlingResource("DATA_LOADER");
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -132,8 +138,10 @@ public class Restaurant extends AppCompatActivity implements OnMapReadyCallback 
                     }
 
                 }
+                countingIdlingResource.decrement();
             }
         });
+        countingIdlingResource.increment();
 
 
     }

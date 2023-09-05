@@ -44,8 +44,6 @@ public class RecyclerAdapterObiectiveTuristice extends RecyclerView.Adapter<Recy
         //in aceasta metoda afisam datele pe ecran in recycler view
         holder.textObiective.setText(denumireObiectiv.get(position));
         holder.imagineObiective.setImageResource(imagineObiectiv.get(position));
-
-
     }
 
     @Override

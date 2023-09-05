@@ -20,8 +20,8 @@ public class Restaurante extends AppCompatActivity implements OnClickInterface {
 
     private ArrayList<String> denumireRestaurant = new ArrayList<>();
     private ArrayList<Integer> imagineRestaurant = new ArrayList<>();
-    RecyclerAdapterView restaurante;
-    CommonMethods setTitlu = new CommonMethods();
+    private RecyclerAdapterView restaurante;
+    private CommonMethods setTitlu = new CommonMethods();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -74,6 +74,5 @@ public class Restaurante extends AppCompatActivity implements OnClickInterface {
         Intent intent = new Intent(getApplicationContext(), Restaurant.class);
         intent.putExtra("restaurantID", denumireRestaurant.get(position));
         startActivity(intent);
-
     }
 }
